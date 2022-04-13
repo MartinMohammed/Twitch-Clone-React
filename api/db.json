@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "How to program Twitch Clone with React - feat Martin Mohammed",
+      "description": "Use React, React-redux, redux-thunk, redux-forms, Axios, RTMP Server.",
+      "userId": "116943955800782536199",
+      "id": 1
+    },
+    {
+      "title": "my first forntite stream",
+      "description": "hi i am jamie",
+      "userId": null,
+      "id": 2
+    }
+  ]
+}
